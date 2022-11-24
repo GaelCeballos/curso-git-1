@@ -61,7 +61,7 @@ const loadAdds = () => {
 const affiliateRedirect = () => {
   // resolver el bug
 }
-//video pull request hola
+//video pull request 
 
 
 
